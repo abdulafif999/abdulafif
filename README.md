@@ -1,2 +1,2 @@
 # abdulafif
-![](https://leetcard.jacoblin.cool/kamenriderbiasa?ext=heatmap)
+![](https://leetcard.jacoblin.cool/kamenriderbiasa?theme=light,unicorn)
